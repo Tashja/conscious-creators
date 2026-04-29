@@ -14,7 +14,7 @@ export default function Hero() {
           poster="/hero-poster.jpg"
           className="w-full h-full object-cover object-[70%_center] sm:object-center"
         >
-          <source src="https://www.dropbox.com/scl/fi/haxupm7488ab77suo2l9v/Portfolio-banner.mp4?rlkey=k6w19az4kb1b8ayre0fprbo5g&st=zpch7adz&raw=1" type="video/mp4" />
+          <source src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663098129466/dnXRGcNkOreChDMz.mp4" type="video/mp4" />
         </video>
       </div>
 
