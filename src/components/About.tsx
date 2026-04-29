@@ -15,7 +15,7 @@ export default function About() {
             About
           </span>
           <h2 className="text-3xl md:text-7xl text-brand-red font-playfair tracking-[-0.01em]">
-            About Tashja
+            Learn more
           </h2>
         </motion.div>
 
@@ -54,7 +54,7 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="font-inter font-light text-sm md:text-base leading-relaxed text-left max-w-2xl mx-auto"
           >
-            Most people spend their lives recreating the same patterns and loops — unconsciously. In this video you'll learn how self awareness, the law of assumption and shifting your state of being can change everything. Because once you understand how reality is actually created, you can never unsee it.
+            Most people spend their lives recreating the same patterns and loops, unconsciously. In this video you'll learn how self awareness, the law of assumption and shifting your state of being can change everything. Because once you understand how reality is actually created, you can never unsee it.
           </motion.p>
           
           <motion.p
