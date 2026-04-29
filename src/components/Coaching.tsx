@@ -12,16 +12,19 @@ const slides = [
   {
     label: "WHAT YOU'LL EXPERIENCE",
     items: [
-      "Building a safe intimate relationship which offers the container for you to become aware and make quantum shifts in a short time",
+      "A safe place which offers the container for you to become aware and make quantum shifts in a short time",
+      "Clarity on your purpose, your unique gifts and how to fully embody and express them",
       "The confidence to show up fully and unapologetically and finally give yourself the permission to go after what you want",
-      "Clarity on your purpose, your unique gifts and how to embody and express them fully"
+      "Polarity integration: building the masculine structure and container that gives your feminine the space to create, rest and thrive"
     ]
   },
   {
     label: "YOUR TRANSFORMATION",
     items: [
-      "Deep subconscious reprogramming to release the old identity and step into the version of you that already has what you desire",
-      "A life and business that feels aligned, authentic and expansive"
+      "Deep subconscious reprogramming to release the old identity and step into the version of you that already lives as you desire",
+      "Understanding everything already exists within, stepping into the operant power that you are",
+      "Goals that feel natural to reach because you're building from the inside out",
+      "A life and business that feels aligned, expansive and completely like you"
     ],
     closing: "This is your call."
   }
