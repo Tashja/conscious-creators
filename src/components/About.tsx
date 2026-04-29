@@ -29,7 +29,7 @@ export default function About() {
         >
           <iframe
             className="w-full h-full"
-            src="https://www.youtube.com/embed/Mr56PAdSJ4k"
+            src="https://www.youtube.com/embed/uGNLbNinTxM"
             title="About Tashja Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -54,7 +54,7 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="font-inter font-light text-sm md:text-base leading-relaxed text-left max-w-2xl mx-auto"
           >
-            Most people spend their lives recreating old patterns, moving in circles. Once I realised that changing my state of consciousness changes my outer reality too, everything shifted. I started creating my life from the inside out, as the operant power that I am.
+            Most people spend their lives recreating the same patterns and loops — unconsciously. In this video you'll learn how self awareness, the law of assumption and shifting your state of being can change everything. Because once you understand how reality is actually created, you can never unsee it.
           </motion.p>
           
           <motion.p
@@ -64,7 +64,7 @@ export default function About() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-center text-xs md:text-sm font-playfair italic text-brand-red/70 pt-2"
           >
-            It's time you start using your creation power consciously too.
+            This is where the real inner work starts.
           </motion.p>
 
           <motion.div 
